@@ -9,4 +9,7 @@
 ## Dev skills
 ![tech stack](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,java,spring)
 
-![snake_game_graph_contribution](https://github.com/Emoreno07/Emoreno07/blob/snake_game/github-contribution-grid-snake.svg)
+<picture>
+  <source srcset="https://github.com/Emoreno07/Emoreno07/blob/snake_game/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)">
+  <source srcset="https://github.com/Emoreno07/Emoreno07/blob/snake_game/github-contribution-grid-snake.svg" media="(prefers-colors-scheme: light)"/>
+</picture>
